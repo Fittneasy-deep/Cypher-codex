@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/cypher-codex](https://github.com/cypher-codex)
+- 👨‍💻 All of my projects are available at [https://github.com/Fittneasy-deep](https://github.com/Fittneasy-deep)
 
 - 📝 I regularly write articles on [https://codeavenger.epizy.com/](https://codeavenger.epizy.com/)
 
